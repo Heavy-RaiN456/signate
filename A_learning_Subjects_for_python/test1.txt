@@ -1,0 +1,4 @@
+Taro 1200/01/01 Japan
+Jiro 1300/12/31 USA
+Hanako 1800/05/31 UK
+Keiko 2100/06/20 France
